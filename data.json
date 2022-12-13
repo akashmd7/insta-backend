@@ -1,0 +1,49 @@
+    {
+      "photos": [
+      {
+        "id": 1,
+        "name": "post1",
+        "image": "/images/post1.jpg"
+      },
+      {
+        "id": 2,
+        "name": "post2",
+        "image": "/images/post2.jpg"
+      },
+      {
+        "id": 3,
+        "name": "post3",
+        "image": "/images/post3.jpg"
+      },
+      {
+        "id": 4,
+        "name": "post4",
+        "image": "/images/post4.jpg"
+      },
+      {
+        "id": 5,
+        "name": "post5",
+        "image": "/images/post5.jpg"
+      },
+      {
+        "id": 6,
+        "name": "post6",
+        "image": "/images/post6.jpg"
+      },
+      {
+        "id": 7,
+        "name": "post7",
+        "image": "/images/post7.jpg"
+      },
+      {
+        "id": 8,
+        "name": "post8",
+        "image": "/images/post8.jpg"
+      },
+      {
+        "id": 9,
+        "name": "post9",
+        "image": "/images/post9.jpg"
+      }
+    ]
+  }
